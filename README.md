@@ -1,5 +1,6 @@
 # Site - Trabalho Dev. Web - HTML e CSS 💻
-
+![Imagem de Capa](img/pagina.jpg)
+![Imagem de Capa](img/lateraldireita.jpg)
 ## Sobre o projeto 📟
 
 ### Curriculo
